@@ -1,7 +1,7 @@
 # 🌲 Random Forest vs. Decision Tree
 > **Machine Learning Classification & Hyperparameter Tuning**
 
-A practical demonstration using scikit-learn to compare the predictive power of a standard Decision Tree against a Random Forest ensemble. 
+A practical demonstration using scikit-learn to compare the predictive power of a Random Forest ensemble against a standard Decision Tree. 
 
 **Key Features:**
 * Dataset: Breast Cancer Wisconsin (Diagnostic)
